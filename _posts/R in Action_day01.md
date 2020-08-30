@@ -1,4 +1,14 @@
 ---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2020-01-02 19:31:29 +0900
+categories: jekyll update
+---
+
+
+
+
+---
 title: "R in Action_weimy_day01"
 author: "weiminlee"
 date: "8/19/2020"
